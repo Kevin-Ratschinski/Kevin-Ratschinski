@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I'm%20Kevin%20👋&reversal=false&textBg=true&animation=fadeIn" alt="capsule-render"/>
+</p>
 
-<!--
-**Kevin-Ratschinski/Kevin-Ratschinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineer focused on clean architecture, developer experience, and shipping maintainable features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Highlights
+
+- ✅ Strong in **TypeScript** & modern web tooling
+- 🧱 Pragmatic architecture: modular, testable, observable
+- 🤝 Collaborative: I like clear docs, small PRs, and fast feedback loops
+
+---
+
+### Tech Stack
+
+#### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java" alt="language icons" />
+</p>
+
+#### Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,npm,vite,godot,docker,azure,postgres,git,jenkins,vscode,idea" alt="tool icons" />
+</p>
+
+---
+
+### Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/kevin-ratschinski-58b6b221a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Ratschinski-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</p>
