@@ -21,13 +21,16 @@ I'm a Software Engineer focused on clean architecture, developer experience, and
 #### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java" alt="language icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust" alt="language icons" />
 </p>
 
 #### Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,npm,vite,godot,docker,azure,postgres,git,jenkins,vscode,idea" alt="tool icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bun,npm,vite,vitest,godot,docker,azure,postgres" alt="tool icons" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tauri,git,github,jenkins,postman,vscode,idea" alt="tool icons" />
 </p>
 
 ---
