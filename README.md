@@ -27,7 +27,7 @@ I'm a Software Engineer focused on clean architecture, developer experience, and
 #### Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bun,npm,vite,vitest,godot,docker,azure,postgres" alt="tool icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bun,npm,vite,vitest,godot,blender,docker,azure,postgres" alt="tool icons" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tauri,git,github,jenkins,postman,vscode,idea" alt="tool icons" />
