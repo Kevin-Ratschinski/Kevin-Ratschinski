@@ -4,20 +4,18 @@
 
 <h1 align="center">Kevin Ratschinski</h1>
 <p align="center">
-  Software Engineer • TypeScript • Clean Architecture
+  <strong>Software Engineer | TypeScript | Clean Architecture | AI-Enabled Product Development</strong>
+</p>
+<p align="center">
+  I design and build maintainable software with clear architecture, reliable delivery, and strong developer experience.
 </p>
 
-## About Me
+## Professional Focus
 
-I build maintainable software with a focus on clear architecture, strong developer experience, and reliable delivery.
-I enjoy translating complex requirements into clean implementations that scale with product and team needs.
-
-## What I Bring
-
-- **Strong TypeScript expertise** across modern web development workflows
-- **Pragmatic architecture decisions** that keep systems modular, testable, and observable
-- **Collaborative delivery mindset** with clear documentation, small pull requests, and fast feedback loops
-- **LLM integration in existing systems** with focus on maintainability and developer workflows
+- Build robust web applications and backend services with TypeScript and Python
+- Translate complex product requirements into clean, testable, and scalable implementations
+- Improve delivery speed through practical automation and maintainable AI integrations
+- Collaborate transparently with small pull requests, clear trade-off communication, and fast feedback loops
 
 ## Tech Stack
 
